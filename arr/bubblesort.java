@@ -1,4 +1,4 @@
-package ARRAY;
+package arr;
 
 public class bubblesort {
 	public static void main(String...strings) {
